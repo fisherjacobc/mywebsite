@@ -141,7 +141,7 @@ export default function Home(){
                 </div>
                 <div className="p-4">
                   <a href="https://github.com/fisherjacobc/">
-                      <Image className="w-full" src="https://github-readme-stats.vercel.app/api?username=fisherjacobc&count_private=true&show_icons=true&hide=contribs&theme=vue-dark" alt="Github" width={100} height={100}/>
+                      <img className="w-full" src="https://github-readme-stats.vercel.app/api?username=fisherjacobc&count_private=true&show_icons=true&hide=contribs&theme=vue-dark" alt="Github"/>
                   </a>
                 </div>
                 <div className="pt-4 text-base font-semibold leading-7">
