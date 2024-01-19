@@ -137,7 +137,7 @@ export default function Home(){
                       <p className="ml-4">Knowledge of <span className="font-bold text-green-600">MongoDB</span> databases and <span className="font-bold text-gray-900">Git</span> version control</p>
                     </li>
                   </ul>
-                  <p>I&apos;m not perfect, but im learning new things every day in order to improve software in the future.</p>
+                  <p>I&apos;m not perfect, but i&apos;m learning new things every day in order to improve software in the future.</p>
                 </div>
                 <div className="p-4">
                   <a href="https://github.com/fisherjacobc/">
